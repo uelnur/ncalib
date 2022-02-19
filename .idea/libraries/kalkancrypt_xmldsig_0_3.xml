@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kalkancrypt_xmldsig-0.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/kalkancrypt_xmldsig-0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
